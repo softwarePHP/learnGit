@@ -1,1 +1,3 @@
 123string
+
+new string
